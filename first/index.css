@@ -1,0 +1,28 @@
+
+.header {
+    background: #565555;
+    width: 100%;
+    height: 20vh;
+}
+
+body {
+    margin: 0;
+    background: #e7e6e6;
+    width: 100%;
+    height: 100vh;
+}
+
+.main-section {
+  background: #fff;
+  width: 70%;
+  margin: 0 auto;
+  height: 70vh;
+}
+
+
+.footer {
+    background: #202020;
+    width: 70%;
+    height: 10vh;
+    margin: 0 auto;
+}
