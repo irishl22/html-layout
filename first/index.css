@@ -1,28 +1,30 @@
 
-.header {
-    background: #565555;
-    width: 100%;
-    height: 20vh;
+* {
+    box-sizing: border-box;
 }
 
 body {
     margin: 0;
-    background: #e7e6e6;
+    max-width: 100%;
+    background: #d8d8d8;
+}
+
+header {
     width: 100%;
-    height: 100vh;
+    height: 20vh;
+    background: #444;
 }
 
-.main-section {
-  background: #fff;
-  width: 70%;
-  margin: 0 auto;
-  height: 70vh;
+.main-content {
+    width: 60%;
+    height: 70vh;
+    margin: auto;
+    background: #efefef; 
 }
 
-
-.footer {
-    background: #202020;
-    width: 70%;
+footer {
+    width: 60%;
     height: 10vh;
-    margin: 0 auto;
+    background: #212121;
+    margin: auto;
 }
